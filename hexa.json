@@ -3,6 +3,6 @@
     "description": "Cloudstream addon",
     "manifestVersion": 1,
     "pluginLists": [
-      "https://raw.githubusercontent.com/jdevanarayanan/Cloudstream-/blob/builds/plugins.json"
+      "https://raw.githubusercontent.com/jdevanarayanan/Cloudstream-/builds/plugins.json"
     ]
   }
