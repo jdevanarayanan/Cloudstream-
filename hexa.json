@@ -1,0 +1,8 @@
+{
+    "name": "Extension",
+    "description": "Cloudstream addon",
+    "manifestVersion": 1,
+    "pluginLists": [
+      "https://raw.githubusercontent.com/jdevanarayanan/Cloudstream-/blob/builds/plugins.json"
+    ]
+  }
